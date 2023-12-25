@@ -1,4 +1,7 @@
 
+
+# **Hi 👋, I'm Tong**
+
 <div align="center">
 
   <!-- knock code pictures -->
@@ -20,12 +23,12 @@
   </picture>
 
 </div>
-<div align="center">
-# **Hi 👋, I'm Tong**
-</div>
-#  🙋  About Me
-**<p>&emsp;&emsp;· 🏛 M.Phil. in Uni Sydney </p>**
-**<p>&emsp;&emsp;· Focusing on Medical Imaging 📖 & Brain Decoding🧠 </p>**
+
+
+
+##  🙋  About Me
+**<p>&emsp;&emsp;· M.Phil. in Uni Sydney 🏛</p>**
+**<p>&emsp;&emsp;· Focusing on Medical Imaging 📖 & Brain Decoding 🧠 </p>**
   <tr><td>
 
 
