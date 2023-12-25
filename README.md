@@ -41,10 +41,8 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
 <p>&emsp;&emsp;Hi, this is Tong.</p>
-<p>&emsp;&emsp;M.Phil. in Uni Sydney</p>
+<p>&emsp;&emsp;An M.Phil. in Uni Sydney</p>
 <p>&emsp;&emsp;Medical Imaging & Neuroimaging. </p>
 
 </td></tr>
