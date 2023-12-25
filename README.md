@@ -20,11 +20,12 @@
   </picture>
 
 </div>
-
+<div align="center">
+# **Hi 👋, I'm Tong**
+</div>
 #  🙋  About Me
-**<p>&emsp;&emsp;Hi, this is Tong.</p>**
-**<p>&emsp;&emsp;M.Phil. in Uni Sydney</p>**
-**<p>&emsp;&emsp;Focusing on Medical Imaging & Brain Decoding. </p>**
+**<p>&emsp;&emsp;· 🏛 M.Phil. in Uni Sydney </p>**
+**<p>&emsp;&emsp;· Focusing on Medical Imaging 📖 & Brain Decoding🧠 </p>**
   <tr><td>
 
 
