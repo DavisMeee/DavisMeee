@@ -22,9 +22,9 @@
 </div>
 
 #  🙋  About Me
-<p>&emsp;&emsp;Hi, this is Tong.</p>
-<p>&emsp;&emsp;An M.Phil. in Uni Sydney</p>
-<p>&emsp;&emsp;Medical Imaging & Neuroimaging. </p>
+**<p>&emsp;&emsp;Hi, this is Tong.</p>**
+**<p>&emsp;&emsp;M.Phil. in Uni Sydney</p>**
+**<p>&emsp;&emsp;Focusing on Medical Imaging & Neuroimaging. </p>**
   <tr><td>
 
 
