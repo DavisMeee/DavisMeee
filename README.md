@@ -22,10 +22,11 @@
 </div>
 
 #  🙋  About Me
-
-## <p>&emsp;&emsp;Hi, this is Tong.</p>
-## <p>&emsp;&emsp;An M.Phil. in Uni Sydney</p>
-## <p>&emsp;&emsp;Medical Imaging & Neuroimaging. </p>
+<div align="center">
+<p>&emsp;&emsp;Hi, this is Tong.</p>
+<p>&emsp;&emsp;An M.Phil. in Uni Sydney</p>
+<p>&emsp;&emsp;Medical Imaging & Neuroimaging. </p>
   
 <tr><td>
+</div>
 
