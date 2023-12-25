@@ -21,11 +21,11 @@
 
 </div>
 
-#  🙋 Hello
-# About Me
-<p>&emsp;&emsp;Hi, this is Tong.</p>
-<p>&emsp;&emsp;An M.Phil. in Uni Sydney</p>
-<p>&emsp;&emsp;Medical Imaging & Neuroimaging. </p>
+#  🙋  About Me
+
+## <p>&emsp;&emsp;Hi, this is Tong.</p>
+## <p>&emsp;&emsp;An M.Phil. in Uni Sydney</p>
+## <p>&emsp;&emsp;Medical Imaging & Neuroimaging. </p>
   
 <tr><td>
 
