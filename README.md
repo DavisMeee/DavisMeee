@@ -11,16 +11,10 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  <!-- for beauty 留个空行好看点 -->
+  
   <div>&nbsp;</div>
   
   
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavisMeee/DavisMeee/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavisMeee/DavisMeee/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DavisMeee/DavisMeee/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
 
 
 </div>
