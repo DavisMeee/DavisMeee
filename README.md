@@ -22,7 +22,7 @@
 
 
 ##  🙋  About Me
-**<p>&emsp;&emsp;· M.Phil. in Uni Sydney 🏛</p>**
+**<p>&emsp;&emsp;· Ph.D. Candidate in Uni Sydney 🏛</p>**
 **<p>&emsp;&emsp;· Focusing on Medical Imaging 📖 & Brain Decoding 🧠 </p>**
   <tr><td>
 
