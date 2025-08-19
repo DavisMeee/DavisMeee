@@ -22,8 +22,8 @@
 
 
 ##  🙋  About Me
-**<p>&emsp;&emsp;· Ph.D. Candidate in Uni Sydney 🏛</p>**
-**<p>&emsp;&emsp;· Focusing on Medical Imaging 📖 & Brain Decoding 🧠 </p>**
+**<p>&emsp;&emsp;· Final Year Ph.D. Candidate @ Uni Sydney 🏛</p>**
+**<p>&emsp;&emsp;· Computer Vison,  Medical Imaging 📖 & NeuroAI 🧠 </p>**
   <tr><td>
 
 
