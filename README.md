@@ -1,6 +1,6 @@
 
 
-# **Hi 👋, I'm Tong**
+# **Hi , I'm Tong**
 
 <div align="center">
 
@@ -21,9 +21,9 @@
 
 
 
-##  🙋  About Me
-**<p>&emsp;&emsp;· Final Year Ph.D. Candidate @ Uni Sydney 🏛</p>**
-**<p>&emsp;&emsp;· Computer Vison,  Medical Imaging 📖 & NeuroAI 🧠 </p>**
+##  About Me
+**<p>&emsp;&emsp;· Final-Year Ph.D. Candidate @ Uni Sydney </p>**
+**<p>&emsp;&emsp;· Generative Model,  Medical Imaging  & NeuroAI  </p>**
   <tr><td>
 
 
