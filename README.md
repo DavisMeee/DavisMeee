@@ -23,7 +23,7 @@
 
 ##  About Me
 **<p>&emsp;&emsp;· Final-Year Ph.D. Candidate @ Uni Sydney </p>**
-**<p>&emsp;&emsp;· Generative Model,  Medical Imaging  & NeuroAI  </p>**
+**<p>&emsp;&emsp;· Generative Model,  Low-Level Vision  & Medical Imaging  </p>**
   <tr><td>
 
 
