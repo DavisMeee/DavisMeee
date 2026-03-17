@@ -24,6 +24,7 @@
 ##  About Me
 **<p>&emsp;&emsp;· Final-Year Ph.D. Candidate @ Uni Sydney </p>**
 **<p>&emsp;&emsp;· Generative Model,  Low-Level Vision  & Medical Imaging  </p>**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavisMeee)](https://github.com/anuraghazra/github-readme-stats)
   <tr><td>
 
 
